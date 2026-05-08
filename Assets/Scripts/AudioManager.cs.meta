@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 9c6a396bc90a1f74f85bf99cd6bf653e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - backgroundMusic: {fileID: 8300000, guid: cf5ca5b6591eb3745b57c93a78390c90, type: 3}
+  - eatSound: {fileID: 8300000, guid: 8464389459a66474fae6928557128c41, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
